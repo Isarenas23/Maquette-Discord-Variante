@@ -1,0 +1,91 @@
+body{
+    /* insère ton style ici */
+  }
+  
+  /* Reset CSS */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body and Container */
+  body {
+    background-image:url("https://github.com/sirius-school/assets/blob/main/html-css/discord-variante/bg-discord.png?raw=true");
+  }
+  
+  .container {
+    /* insère ton style ici */
+  }
+  
+  /* Header */
+  header {
+    /* insère ton style ici */
+  }
+  
+  header h1 {
+    /* insère ton style ici */
+  }
+  
+  nav {
+    /* insère ton style ici */
+  }
+  
+  nav ul {
+    /* insère ton style ici */
+  }
+  
+  nav ul li {
+    /* insère ton style ici */
+  }
+  
+  nav ul li a {
+    /* insère ton style ici */
+  }
+  
+  /* Main Content */
+  main {
+    /* insère ton style ici */
+  }
+  
+  
+  main .container {
+    /* insère ton style ici */
+  }
+  
+  article {
+    /* insère ton style ici */
+  }
+  
+  .inside {
+    /* insère ton style ici */
+  }
+  
+  .inside .card{
+    /* insère ton style ici */
+  }
+  
+  aside {
+    /* insère ton style ici */
+  }
+  
+  aside .news{
+    /* insère ton style ici */
+  }
+  
+  .news .date {
+    /* insère ton style ici */
+  }
+  
+  .hero {
+    /* insère ton style ici */
+  }
+  
+  .hero h3 {
+    /* insère ton style ici */
+  }
+  
+  /* Footer */
+  footer {
+    /* insère ton style ici */
+  }
